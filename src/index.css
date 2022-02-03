@@ -1,0 +1,44 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+.active .navbar li a {
+  background-color: cadetblue;
+}
+
+.active {
+  color: #ffff;
+  background-color: aqua;
+}
+
+
+.h1 {
+  color: black
+}
+
+table {
+  border: 2px solid rgb(3, 8, 3);
+  width: 800px;
+  height: 200px;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
