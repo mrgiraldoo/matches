@@ -4,8 +4,8 @@ Be careful to use Router 6 or higher.
 
 # Execution
 Clone the folder and run:
-> npm install
-> npm start
+npm install
+npm start
 
 # Variables and Keys:
 You need to use your own Key access to the football-data API.
